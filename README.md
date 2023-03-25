@@ -1,2 +1,3 @@
 # cw-blog
-blog project using MERN
+
+This is a new project using MERN Stack to re-create my old wordpress blogsite!!!
